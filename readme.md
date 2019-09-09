@@ -4,18 +4,18 @@
 
 ### 初始界面
 
-![](/Users/apple/Desktop/Unity-TicTacToe/assets/屏幕快照 2019-09-09 下午5.50.01.png)
+![](../assets/1.png)
 
 ### player 1 wins
 
-![](/Users/apple/Desktop/Unity-TicTacToe/assets/屏幕快照 2019-09-09 下午5.50.16.png)
+![](../assets/2.png)
 
 ### player 2 wins
 
-![](/Users/apple/Desktop/Unity-TicTacToe/assets/屏幕快照 2019-09-09 下午5.50.27.png)
+![](../assets/3.png)
 
 ### 平局
 
-![](/Users/apple/Desktop/Unity-TicTacToe/assets/屏幕快照 2019-09-09 下午5.51.16.png)
+![](../assets/4.png)
 
 *Unity 版本： 2019.2.2f1*
