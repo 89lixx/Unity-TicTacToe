@@ -4,18 +4,18 @@
 
 ### 初始界面
 
-![](../assets/1.png)
+![](./assets/1.png)
 
 ### player 1 wins
 
-![](../assets/2.png)
+![](./assets/2.png)
 
 ### player 2 wins
 
-![](../assets/3.png)
+![](./assets/3.png)
 
 ### 平局
 
-![](../assets/4.png)
+![](./assets/4.png)
 
 *Unity 版本： 2019.2.2f1*
