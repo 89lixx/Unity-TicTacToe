@@ -18,4 +18,7 @@
 
 ![](./assets/4.png)
 
+[视频演示](https://v.youku.com/v_show/id_XNDM1NTE0MTQ0NA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+
 *Unity 版本： 2019.2.2f1*
+
