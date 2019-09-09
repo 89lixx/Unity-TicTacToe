@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C01EBABA-D1B1-E0FB-0AEF-344C60991C2C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/welcome.cs">
+    <Files>
+      <File FileName="Assets/Play.cs" Line="90" Column="56" />
+      <File FileName="Assets/welcome.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="井字棋" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="welcome.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db995325-9de2-4bef-9796-fef350de1ddb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
